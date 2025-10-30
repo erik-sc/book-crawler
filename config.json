@@ -1,0 +1,9 @@
+{
+  "max_concurrent_requests": 1,
+  "max_pages_per_tag": 1,
+  "data_dir": "./data",
+  "images_dir": "./data/images",
+  "output_csv": "./data/metadata.csv",
+  "tags_file": "./assets/tags-test.txt",
+  "results_per_page": 40
+}
