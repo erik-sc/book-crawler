@@ -1,5 +1,4 @@
-romance
-literatura brasileira
+literatura%20brasileira
 ficção
 conto
 crônica
@@ -9,33 +8,33 @@ drama
 teatro
 infantojuvenil
 fantasia
-ficção científica
+ficção%20científica
 terror
 suspense
 mistério
-romance policial
-romance histórico
-romance contemporâneo
-romance de época
-romance espírita
-romance religioso
-literatura contemporânea
-literatura clássica
+romance%20policial
+romance%20histórico
+romance%20contemporâneo
+romance%20de%20época
+romance%20espírita
+romance%20religioso
+literatura%20contemporânea
+literatura%20clássica
 modernismo
 realismo
 naturalismo
 romantismo
-literatura feminina
-literatura nordestina
-literatura gaúcha
-literatura infantil
-literatura jovem
-conto brasileiro
-poesia brasileira
-conto infantil
-conto contemporâneo
-ficção brasileira
-romance brasileiro
+literatura%20feminina
+literatura%20nordestina
+literatura%20gaúcha
+literatura%20infantil
+literatura%20jovem
+conto%20brasileiro
+poesia%20brasileira
+conto%20infantil
+conto%20contemporâneo
+ficção%20brasileira
+romance%20brasileiro
 novela
 cordel
 memórias
@@ -46,14 +45,14 @@ filosofia
 lógica
 metafísica
 existencialismo
-filosofia contemporânea
-filosofia antiga
-filosofia moderna
+filosofia%20contemporânea
+filosofia%20antiga
+filosofia%20moderna
 psicologia
 psicanálise
-psicologia comportamental
-psicologia social
-psicologia educacional
+psicologia%20comportamental
+psicologia%20social
+psicologia%20educacional
 neurociência
 espiritualidade
 autoconhecimento
@@ -64,11 +63,18 @@ religião
 cristianismo
 catolicismo
 espiritismo
-umbanda
-candomblé
-budismo
-ateísmo
 teologia
-filosofia da mente
-filosofia política
-filosofia da ciência
+filosofia%20da%20mente
+filosofia%20política
+filosofia%20da%20ciência
+história
+ciências
+ensaio
+crítica%20literária
+jornalismo
+crônicas
+aventura
+ação
+comédia
+humor
+sátira
